@@ -1,1 +1,1 @@
-# istio-apply-app
+# istio-apply-app - PoC service
